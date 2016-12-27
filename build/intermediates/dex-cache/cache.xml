@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f29f374b969d8930768dfad34f14aa1e0413a0b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c05bbeea35e55ea56c3e35d0c42e2ac898400de3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_70762399c82169bd08513e5c94f8b18db960bb25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.2.1_0462f427a401024051bc288a61d7843fe179bec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3b6ae2eeef5a527fed871c0848cf41ab5ecce700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d1cf542b8758a5784760ce1d3681136df55c4cb3">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_12c8ffe36301e450779c7ef98eb434e1ffb78df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_8ff5ed35496f981c3e259f6629adf4e74b60d75b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f8b705ea04229d8d402d3f8df4b5a28ec8efd054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_fea0ba340350cd1e0377b6ebc9bc5ec161da2aa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_8347c5e5498ee2d2e93dbbac44d5fa706038c6c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5743a5d21450874007fb0fc08abb42dc8677225a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7f7ca5c1cad9bfc9a27db7e43f18da6ecbd25f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1f752010bbee4894b13196f2a61b6c09de43e723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7b1e31540db9fbc5ee20c58e79c62a7518f68f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6c8d03d279bb631a8c47c36d2a0b64391b82e7e8">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21eea3c8febe699568d2fefa183c7f7ebdacddf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ffce1b114b075613c9b3ccc7d16667c750b6989a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6cf59ee671605a8d327c1f5c511f57b7ab7e6e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\krish\workspace\HotelCheck-In\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3de3707bb7037750b339aec26137377aa35b3a62\classes.dex" />
+    </item>
+
+</items>
